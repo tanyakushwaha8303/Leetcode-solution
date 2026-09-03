@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
+| [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -17,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
+## Sorting
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
