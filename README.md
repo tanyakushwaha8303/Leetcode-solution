@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
