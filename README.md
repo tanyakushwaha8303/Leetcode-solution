@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
