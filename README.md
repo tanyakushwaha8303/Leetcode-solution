@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
+| [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3843-first-element-with-unique-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3843-first-element-with-unique-frequency) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
+| [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -104,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
+| [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
