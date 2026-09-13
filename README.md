@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0007-reverse-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
