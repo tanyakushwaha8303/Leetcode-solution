@@ -15,7 +15,8 @@ public:
                 count++;
                 i++;
             }
-            result=result+to_string(count)+string(1,ch);
+           result += to_string(count);
+result += ch;;
         }
         return result;
     }
