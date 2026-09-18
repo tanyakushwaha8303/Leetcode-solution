@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0120-triangle) |
 ## Stack
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
