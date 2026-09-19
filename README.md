@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
