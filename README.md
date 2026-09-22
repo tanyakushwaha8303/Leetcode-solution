@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
