@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Ordered Set
