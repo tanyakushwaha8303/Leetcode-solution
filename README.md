@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
