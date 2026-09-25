@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
