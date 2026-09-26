@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
