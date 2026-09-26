@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3843-first-element-with-unique-frequency) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Ordered Set
 |  |
@@ -171,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Sliding Window
 |  |
 | ------- |
