@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
