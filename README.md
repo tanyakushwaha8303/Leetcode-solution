@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3843-first-element-with-unique-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3843-first-element-with-unique-frequency) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Ordered Set
 |  |
