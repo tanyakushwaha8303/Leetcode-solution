@@ -48,7 +48,7 @@ void solve(vector<int>& nums,vector<int>& ans,int i){
 
             int j = pos[v[i].first];
 
-            swap(nums[i], nums[j]);
+            swap(nums[i],nums[j]);
             pos[nums[j]] = j;
             pos[nums[i]] = i;
 
