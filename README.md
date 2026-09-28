@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [2740-find-the-value-of-the-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2740-find-the-value-of-the-partition) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [2740-find-the-value-of-the-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2740-find-the-value-of-the-partition) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
