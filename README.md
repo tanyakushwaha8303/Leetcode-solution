@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2740-find-the-value-of-the-partition) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
