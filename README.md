@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -289,12 +291,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
