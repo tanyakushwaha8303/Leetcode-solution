@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
