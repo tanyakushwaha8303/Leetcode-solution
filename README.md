@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
