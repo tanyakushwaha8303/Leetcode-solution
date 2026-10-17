@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
