@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
