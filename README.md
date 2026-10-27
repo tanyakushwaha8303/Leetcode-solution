@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quickselect
 |  |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
