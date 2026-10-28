@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0436-find-right-interval) |
