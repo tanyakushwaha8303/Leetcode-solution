@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
+| [0441-arranging-coins](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
