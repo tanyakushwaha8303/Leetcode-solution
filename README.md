@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0436-find-right-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0436-find-right-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
