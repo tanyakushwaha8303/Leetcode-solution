@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
