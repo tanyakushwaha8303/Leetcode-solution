@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0888-fair-candy-swap) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
