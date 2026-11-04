@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 ## Longest Increasing Subsequence
