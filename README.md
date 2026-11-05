@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0058-length-of-last-word) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
