@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
