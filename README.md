@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
