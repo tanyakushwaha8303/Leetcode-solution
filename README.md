@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting Sort
