@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2740-find-the-value-of-the-partition) |
+| [2784-check-if-array-is-good](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2974-minimum-number-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2740-find-the-value-of-the-partition) |
+| [2784-check-if-array-is-good](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3462-maximum-sum-with-at-most-k-elements) |
