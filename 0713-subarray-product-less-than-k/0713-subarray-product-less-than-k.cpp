@@ -1,22 +1,21 @@
 class Solution {
 public:
- int solve(vector<int>& nums, int k,int i,int& count){
-    if(i>=nums.size()){
-        return count;
-    }
-long long product=1;
-    for(int j=i;j<nums.size();j++){
-        product=product*nums[j];
-        if(product>=k){
-            break;
-        }
-        count++;
-    }
-   return  solve(nums,k,i+1,count);
-  }
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
+        if(k<=1){
+            return 0;
+        }
+        int left=0;
         int count=0;
-     return   solve(nums,k,0,count);
+        int product=1;
         
+        for(int right=0;right<nums.size();right++){
+            product=product*nums[right];
+            while(product>=k){
+                product=product/nums[left];
+                left++;
+            }
+            count=count+(right-left+1);
+        }
+        return count; 
     }
 };
