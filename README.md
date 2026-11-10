@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2363-merge-similar-items) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3843-first-element-with-unique-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3843-first-element-with-unique-frequency) |
 | [3978-unique-middle-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/3978-unique-middle-element) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2942-find-words-containing-character) |
 ## Combinatorics
