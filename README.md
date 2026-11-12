@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2643-row-with-maximum-ones) |
