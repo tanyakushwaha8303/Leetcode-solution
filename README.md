@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
