@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0541-reverse-string-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0541-reverse-string-ii) |
