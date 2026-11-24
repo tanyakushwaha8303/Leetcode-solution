@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -559,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
