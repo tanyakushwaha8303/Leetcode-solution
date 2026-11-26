@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2506-count-pairs-of-similar-strings) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0784-letter-case-permutation](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -565,4 +567,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0046-permutations) |
+| [0784-letter-case-permutation](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
