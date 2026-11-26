@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
+| [0263-ugly-number](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
