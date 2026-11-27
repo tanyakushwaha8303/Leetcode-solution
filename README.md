@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0561-array-partition) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0120-triangle) |
+| [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0067-add-binary) |
+| [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0784-letter-case-permutation) |
 | [2032-two-out-of-three](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/2032-two-out-of-three) |
@@ -568,5 +571,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0046-permutations) |
+| [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0784-letter-case-permutation) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
