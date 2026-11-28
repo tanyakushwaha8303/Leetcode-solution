@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -577,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0526-beautiful-arrangement) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanyakushwaha8303/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
